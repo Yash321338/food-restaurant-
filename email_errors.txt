@@ -1,0 +1,3 @@
+2025-04-16 19:43:06 - Error sending to: yashtilala11411@gmail.com - Error: SMTP Error: Could not authenticate.
+2025-04-16 19:55:27 - Error sending to: yashtilala8252@gmail.com - Error: SMTP Error: Could not authenticate.
+2025-04-16 20:31:11 - Error sending to: yashtilala11411@gmail.com - Error: SMTP Error: Could not authenticate.
